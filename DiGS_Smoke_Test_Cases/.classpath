@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10006/Downloads/selenium Jar-2.53.1/selenium-2.53.1/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/ATUReporter_Selenium_testNG_5.5_BETA.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/poi-examples-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/poi-excelant-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/poi-scratchpad-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/xmlbeans-5.2.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium/Required Jar files/xmlbeans-xpath-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/client-combined-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/client-combined-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/selenium-server-standalone-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium/DiGS_Smoke_Test_Cases/lib/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

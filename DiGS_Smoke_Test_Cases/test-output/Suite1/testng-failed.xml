@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite1]" parallel="classes">
+  <test name="Default test(failed)" parallel="classes">
+    <classes>
+      <class name="digs_Smoke_Test_Cases.Chart_Rules_Search">
+        <methods>
+          <include name="chartRulesSearch" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.Chart_Rules_Search -->
+      <class name="digs_Smoke_Test_Cases.Custom_Territory_Grouping">
+        <methods>
+          <include name="customTerritoryGrouping" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.Custom_Territory_Grouping -->
+      <class name="digs_Smoke_Test_Cases.Advanced_Search">
+        <methods>
+          <include name="advancedSearch" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.Advanced_Search -->
+      <class name="digs_Smoke_Test_Cases.Automatic_OptOut">
+        <methods>
+          <include name="automaticOptOut" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.Automatic_OptOut -->
+      <class name="digs_Smoke_Test_Cases.User_Profile_Add_Edit_Notification">
+        <methods>
+          <include name="userProfileAddEditNotification" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.User_Profile_Add_Edit_Notification -->
+      <class name="digs_Smoke_Test_Cases.User_Profile_Change_Search_Preferences">
+        <methods>
+          <include name="userProfileChangeSearchPreferences" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.User_Profile_Change_Search_Preferences -->
+      <class name="digs_Smoke_Test_Cases.Managed_Territory">
+        <methods>
+          <include name="managedTerritory" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.Managed_Territory -->
+      <class name="digs_Smoke_Test_Cases.Releasing_Family">
+        <methods>
+          <include name="releasingFamily" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.Releasing_Family -->
+      <class name="digs_Smoke_Test_Cases.Login_To_DiGS">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.Login_To_DiGS -->
+      <class name="digs_Smoke_Test_Cases.Quick_Search_For_UPC">
+        <methods>
+          <include name="quickSearchForUPC" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.Quick_Search_For_UPC -->
+      <class name="digs_Smoke_Test_Cases.User_Profile_Change_Basic_Preferences">
+        <methods>
+          <include name="userProfileChangeBasicPreferences"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.User_Profile_Change_Basic_Preferences -->
+      <class name="digs_Smoke_Test_Cases.Verify_Buttons_Local_Row_Filter">
+        <methods>
+          <include name="localRowFilter" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.Verify_Buttons_Local_Row_Filter -->
+      <class name="digs_Smoke_Test_Cases.CDL_Mappings">
+        <methods>
+          <include name="cdlMappings"/>
+        </methods>
+      </class> <!-- digs_Smoke_Test_Cases.CDL_Mappings -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

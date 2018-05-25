@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12511" started-at="2018-05-19T17:28:32Z" finished-at="2018-05-19T17:28:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12511" started-at="2018-05-19T17:28:32Z" finished-at="2018-05-19T17:28:45Z">
+      <class name="extend_Report_Check.Help">
+        <test-method status="FAIL" signature="help(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:extend_Report_Check.Help@5702b3b1]" name="help" duration-ms="10020" started-at="2018-05-19T22:58:35Z" data-provider="Credential" finished-at="2018-05-19T22:58:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://aspen-uat.umusic.net/ART/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testlab1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[04Music]]>
+              </value>
+            </param>
+          </params>
+          <exception class="atu.testng.reports.exceptions.ATUReporterStepFailedException">
+            <full-stacktrace>
+              <![CDATA[[ATU Custom Reporter Step Failed Exception]
+	at atu.testng.reports.ATUReports.stepFailureHandler(Unknown Source)
+	at atu.testng.reports.ATUReports.add(Unknown Source)
+	at extend_Report_Check.Aspen_ART_Wrapper.launchBrowser(Aspen_ART_Wrapper.java:112)
+	at extend_Report_Check.Help.help(Help.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- atu.testng.reports.exceptions.ATUReporterStepFailedException -->
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- help -->
+      </class> <!-- extend_Report_Check.Help -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

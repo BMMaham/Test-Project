@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" >
+	<test  name="Default test">
+		<classes>
+		<class name="digs_Smoke_Test_Cases.Bulk_Upload"/>
+		<class name="digs_Smoke_Test_Cases.Create_Product_And_Verification"/>
+		<class name="digs_Smoke_Test_Cases.Verify_Product_Details_BulkUpload" />
+		</classes>
+	</test>
+	 
+</suite>	

@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" parallel="classes" thread-count="5">
+	<test  name="Default test">
+		<classes>
+		<class name="digs_Smoke_Test_Cases.Save_And_Validate_Product_BulkUpload"/>
+	    <class name="digs_Smoke_Test_Cases.Save_And_Validate_Product"/>
+	    <class name="digs_Smoke_Test_Cases.Verify_Status"/>
+	    <class name="digs_Smoke_Test_Cases.Verify_Buttons_Local_Row_Filter" />	
+	    </classes>
+	
+	</test>
+	 
+</suite>
