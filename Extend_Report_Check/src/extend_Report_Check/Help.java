@@ -39,6 +39,7 @@ public void help(String url,String username,String password) throws InterruptedE
 		wp.clickByLinkText("Help");
 		//Close the browser
 		wp.closeBrowser();
+		System.out.println("Checking");
 	}
 	@DataProvider(name = "Credential")
 	public  Object[][] loginData() throws IOException {

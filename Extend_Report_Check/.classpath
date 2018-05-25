@@ -68,5 +68,7 @@
 	<classpathentry kind="lib" path="C:/AUTOMATION/extendReports/extentreports-java-2.41.2/lib/sqlite-jdbc-3.8.11.1.jar"/>
 	<classpathentry kind="lib" path="C:/AUTOMATION/extendReports/extentreports-java-2.41.2/lib/testng-6.9.9.jar"/>
 	<classpathentry kind="lib" path="C:/AUTOMATION/extendReports/extentreports-java-2.41.2/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium-old/DiGS_Smoke_Test_Cases/lib/ATUReporter_Selenium_testNG_5.5_BETA.jar"/>
+	<classpathentry kind="lib" path="C:/AUTOMATION/Selenium-old/DiGS_Smoke_Test_Cases/lib/ATUTestRecorder_2.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
